@@ -7,3 +7,7 @@ The goal of this project is to:
 2. Analyze if there are any gaps between critic ratings (from AV Club) and user ratings (from IMDB) for individual episodes as the show has progressed.
 
 3. Explore features such as episode type (halloween heist episodes, pontaic bandit episodes, two-part episodes, etc.), writers, directors, number of US viewers who watched the episode the first time it aired, etc. to determine if we can predict the target variable i.e. the episode's IMDB rating to understand what episodes are liked the most by IMDB users.
+
+COMING SOON!
+
+My next step is to use sentiment analysis/ topic modeling techniques to understand the reasons for the gaps between critic ratings (from AV Club) and user ratings (from IMDB) for individual episodes as the show has progressed.
